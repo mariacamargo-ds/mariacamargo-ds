@@ -14,7 +14,7 @@ Trabalho na interseção entre LLMs, recuperação de informação e avaliação
 
 ## 🔬 Pesquisa atual
 
-**SmartB100 | Agente agrônomo inteligente** | Squad 04: Transformers
+**[SmartB100 | Agente agrônomo inteligente](https://github.com/CDDSB100/SB100)** | Squad 04: Transformers
 
 Pipeline RAG com avaliação de alucinações em domínios de citricultura e cana-de-açúcar.
 Foco em Confidence Score combinando métricas de reranking, cobertura e fidelidade — registrado via MLflow.
