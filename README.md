@@ -25,7 +25,8 @@ Foco em Confidence Score combinando métricas de reranking, cobertura e fidelida
 
 ## 💻 Projetos
 
-**[opinate-nlp](https://github.com/SEU_USUARIO/opinate-nlp)**
+**[Análise de Sentimentos – Plataforma Opinate](https://github.com/mariacamargo-ds/analise-sentimentos-opinate)**
+
 Análise de sentimentos em debates políticos acadêmicos para a plataforma Opinate (Neo Reformata).
 Benchmark zero-shot com três modelos NLP; pysentimiento eleito com F1-macro 0.89.
 Dataset sintético de 35k amostras simulando perfis universitários brasileiros.
@@ -34,7 +35,9 @@ Dataset sintético de 35k amostras simulando perfis universitários brasileiros.
 
 ---
 
-**[breast-cancer-dash](https://github.com/SEU_USUARIO/breast-cancer-dash)**
+**[Dashboard Câncer de Mama (com SVM)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-svm)** e 
+**[Dashboard Câncer de Mama (com DBSCAN r Fuzzy)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-dbscan-fuzzy)**
+
 Dashboard interativo com SVM, DBSCAN e Fuzzy C-Means sobre o dataset Wisconsin Breast Cancer.
 Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
@@ -98,7 +101,7 @@ Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
 <div align="center">
 
-🟢 Disponível para estágios · Entre em Contato · SP
+🟢 Disponível para estágios · Contato Profissional · SP
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-7F77DD?style=flat-square&logo=linkedin&logoColor=white)
