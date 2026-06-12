@@ -4,7 +4,7 @@
 
 </div>
 
-## Sejam Bem vindos! 👩‍💻
+# Sejam Bem vindos! 👩‍💻
 
 Meu nome é Maria Eduarda, sou estudante de Ciência de Dados na **Fatec Cotia** e bolsista de Iniciação Científica no programa **SmartB100**, pela FAPESP (Fundação de Amparo à Pesquisa no Estado de São Paulo).
 
@@ -14,7 +14,7 @@ Trabalho na interseção entre LLMs, recuperação de informação e avaliação
 
 ## 🔬 Pesquisa atual
 
-**SmartB100 · Agente agrônomo inteligente** · Squad Transformers
+**SmartB100 | Agente agrônomo inteligente** | Squad 04: Transformers
 
 Pipeline RAG com avaliação de alucinações em domínios de citricultura e cana-de-açúcar.
 Foco em Confidence Score combinando métricas de reranking, cobertura e fidelidade — registrado via MLflow.
@@ -36,7 +36,7 @@ Dataset sintético de 35k amostras simulando perfis universitários brasileiros.
 ---
 
 **[Dashboard Câncer de Mama (com SVM)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-svm)** e 
-**[Dashboard Câncer de Mama (com DBSCAN r Fuzzy)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-dbscan-fuzzy)**
+**[Dashboard Câncer de Mama (com DBSCAN e Fuzzy)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-dbscan-fuzzy)**
 
 Dashboard interativo com SVM, DBSCAN e Fuzzy C-Means sobre o dataset Wisconsin Breast Cancer.
 Visualizações em Plotly, deploy no Streamlit Community Cloud.
@@ -58,42 +58,22 @@ Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
 
 
-![Python](https://img.shields.io/badge/Python-7F77DD?style=flat-square&logoColor=white&logo=python)
+![Python](https://img.shields.io/badge/Python-7F77DD?style=flat-square&logoColor=white&logo=python) ![Transformers](https://img.shields.io/badge/Transformers-D4537E?style=flat-square&logoColor=white&logo=huggingface)
 
 
 
 
-![Transformers](https://img.shields.io/badge/Transformers-D4537E?style=flat-square&logoColor=white&logo=huggingface)
+![MLflow](https://img.shields.io/badge/MLflow-AFA9EC?style=flat-square&logoColor=26215C&logo=mlflow) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ED93B1?style=flat-square&logoColor=4B1528&logo=scikitlearn)
 
 
 
 
-![MLflow](https://img.shields.io/badge/MLflow-AFA9EC?style=flat-square&logoColor=26215C&logo=mlflow)
+![Streamlit](https://img.shields.io/badge/Streamlit-5DCAA5?style=flat-square&logoColor=04342C&logo=streamlit) ![Jupyter](https://img.shields.io/badge/Jupyter-EF9F27?style=flat-square&logoColor=412402&logo=jupyter)
 
 
 
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ED93B1?style=flat-square&logoColor=4B1528&logo=scikitlearn)
-
-
-
-
-![Streamlit](https://img.shields.io/badge/Streamlit-5DCAA5?style=flat-square&logoColor=04342C&logo=streamlit)
-
-
-
-
-![Jupyter](https://img.shields.io/badge/Jupyter-EF9F27?style=flat-square&logoColor=412402&logo=jupyter)
-
-
-
-
-![Plotly](https://img.shields.io/badge/Plotly-AFA9EC?style=flat-square&logoColor=26215C&logo=plotly)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-85B7EB?style=flat-square&logoColor=042C53&logo=postgresql)
+![Plotly](https://img.shields.io/badge/Plotly-AFA9EC?style=flat-square&logoColor=26215C&logo=plotly) ![SQL](https://img.shields.io/badge/SQL-85B7EB?style=flat-square&logoColor=042C53&logo=postgresql)
 
 
 
@@ -101,7 +81,7 @@ Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
 <div align="center">
 
-🟢 Disponível para estágios · Contato Profissional · SP
+🟢 Disponível para estágios | Contato Profissional 📩 |  Cotia, SP 📍 
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-7F77DD?style=flat-square&logo=linkedin&logoColor=white)
