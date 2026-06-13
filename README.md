@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=200&section=header&text=Maria%20Eduarda%20da%20Cruz&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Ciência%20de%20Dados%20·%20Fatec%20Cotia%20·%20IC%20SmartB100&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=200&section=header&text=Sejam%20Bem-vindos%20%&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Maria%20Eduarda%20da%20Cruz%20|%20Data%20Science%20&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
