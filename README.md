@@ -15,7 +15,7 @@ Sou estudante de Ciência de Dados na **Fatec Cotia** e bolsista de Iniciação 
 **[SmartB100 | Agente agrônomo inteligente](https://github.com/CDDSB100/SB100)** | Squad 04: Transformers
 
 Pipeline RAG com avaliação de alucinações em domínios de citricultura e cana-de-açúcar.
-Foco em Confidence Score combinando métricas de reranking, cobertura e fidelidade — registrado via MLflow.
+Foco em Confidence Score combinando métricas de reranking, cobertura e fidelidade, com registro via MLflow.
 
 `Python` `Transformers` `MLflow` `RAG` `LLMs`
 
