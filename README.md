@@ -4,7 +4,7 @@
 
 </div>
 
-Meu nome é Maria Eduarda, sou estudante de Ciência de Dados na **Fatec Cotia** e bolsista de Iniciação Científica no programa **SmartB100**, pela FAPESP (Fundação de Amparo à Pesquisa no Estado de São Paulo).
+Sou estudante de Ciência de Dados na **Fatec Cotia** e bolsista de Iniciação Científica no programa **SmartB100**, pela FAPESP (Fundação de Amparo à Pesquisa no Estado de São Paulo).
 
 Trabalho na interseção entre LLMs, recuperação de informação e avaliação de alucinações, com aplicações em domínios agrícolas especializados.
 
