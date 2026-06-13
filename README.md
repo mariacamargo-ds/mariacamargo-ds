@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489,7F77DD,D4537E&height=200&section=header&text=Maria%20Eduarda%20da%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Ciência%20de%20Dados%20·%20Fatec%20Cotia%20·%20IC%20SmartB100&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=200&section=header&text=Maria%20Eduarda%20da%20Cruz&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Ciência%20de%20Dados%20·%20Fatec%20Cotia%20·%20IC%20SmartB100&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -65,6 +65,8 @@ Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7F77DD?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4537E,7F77DD,3C3489&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=120&section=footer" width="100%"/>
 
 </div>
