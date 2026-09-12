@@ -69,7 +69,7 @@ Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
 🟢 Disponível para estágios | Contato Profissional 📩 | Cotia, SP 📍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F77DD?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F77DD?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-camargo-ds)
 
 <div align="center">
 
