@@ -35,7 +35,9 @@ Dataset sintético de 35k amostras simulando perfis universitários brasileiros.
 **[Talk 'N Read: da voz à legenda, na palma da sua mão](https://github.com/mariacamargo-ds/talk-n-read-pln)**
 
 Aplicação que utiliza Processamento de Linguagem Natural para transformar áudio em texto (speech-to-text).
+
 Modelo transformer utilizado: OpenAI Whisper
+
 Legendas disponíveis em três idiomas, além da detecção em tempo-real.
 
 `Python` `NLP` `Transformers` `OpenAI Whisper` `Streamlit`
@@ -55,8 +57,7 @@ Visualizações em Plotly, deploy no Streamlit Community Cloud.
 
 | | |
 |---|---|
-| 🤖 LLMs & RAG — Benchmarks | 👁️ Visão Computacional |
-| ⛈️ Meteorologia & Dados | 🧠 Aprendizagem Maquina e PLN 🤖|
+| 🤖 LLMs & RAG — Benchmarks | 🧠 Aprendizagem Maquina e PLN 🤖|
 | 🌿 Agro e Biotecnologia — Modelos Transformers Aplicados | Visualização da Informação e Business Intelligence 📊 |
 
 ---
