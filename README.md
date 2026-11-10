@@ -32,7 +32,15 @@ Dataset sintético de 35k amostras simulando perfis universitários brasileiros.
 `Python` `NLP` `Transformers` `pysentimiento` `Jupyter`
 
 ---
+**[Talk 'N Read: da voz à legenda, na palma da sua mão](https://github.com/mariacamargo-ds/talk-n-read-pln)**
 
+Aplicação que utiliza Processamento de Linguagem Natural para transformar áudio em texto (speech-to-text).
+Modelo transformer utilizado: OpenAI Whisper
+Legendas disponíveis em três idiomas, além da detecção em tempo-real.
+
+`Python` `NLP` `Transformers` `OpenAI Whisper` `Streamlit`
+
+---
 **[Dashboard Câncer de Mama (com SVM)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-svm)** e
 **[Dashboard Câncer de Mama (com DBSCAN e Fuzzy)](https://github.com/mariacamargo-ds/dashboard-cancer-mama-dbscan-fuzzy)**
 
