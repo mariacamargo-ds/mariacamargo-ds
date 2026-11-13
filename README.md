@@ -10,7 +10,7 @@ Sou estudante de Ciência de Dados na **Fatec Cotia** e bolsista de Iniciação 
 ---
 <div align="center">
   
-## 🔬 Pesquisa atual 🔬
+## 🔬 Iniciação Científica 🔬
 
 **[SmartB100 | Agente agrônomo inteligente](https://github.com/CDDSB100/SB100)** | Squad 04: Transformers
 
